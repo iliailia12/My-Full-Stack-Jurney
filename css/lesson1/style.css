@@ -1,0 +1,34 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: #89e244;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: #013c00;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+/* CSS შრიფტები საშუალებას გაძლევთ განსაზღვროთ ვებსაიტზე ტექსტის ვიზუალი, როგორიცაა შრიფტის ტიპი, ზომა, სისქე, სტილი და ხაზების სიმაღლე. ეს განყოფილება მოიცავს შემდეგ ძირითად თვისებებს:
+
+font-family: ტექსტის შრიფტის ტიპის განსაზღვრა.
+
+font-size: შრიფტის ზომის რეგულირება.
+
+font-weight: ტექსტის სისქის არჩევა (მაგ., "სქელი" ან "ნაზი").
+
+font-style: ტექსტის სტილის განსაზღვრა (მაგ., დახრილი ან სწორი).
+
+line-height: ხაზებს შორის მანძილის მართვა.
+
+ეს თვისებები ტექსტს აძლევს უნიკალურ ვიზუალს და ხდის ვებსაიტს უფრო მიმზიდველს. CSS შრიფტები ასევე მოიცავს ვებშრიფტების ინტეგრაციას, როგორიცაა Google Fonts, რაც მომხმარებლებს მეტ არჩევანს აძლევს. */

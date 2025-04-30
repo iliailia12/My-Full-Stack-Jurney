@@ -1,0 +1,35 @@
+/* CSS-ში საზღვრები (Borders) გამოიყენება ელემენტების გარშემო ხაზების შესაქმნელად და ვიზუალური გამოყოფისთვის.
+
+საზღვრებს შეიძლება ჰქონდეს შემდეგი პარამეტრები:
+
+სისქე (border-width): საზღვრის სიგანე.
+
+სტილი (border-style): ხაზის ტიპი (მაგ., solid, dashed, dotted).
+
+ფერი (border-color): საზღვრის ფერის განსაზღვრა.
+
+საზღვრები ხელს უწყობს ელემენტების ჩარჩოში მოქცევასა და ვიზუალური ჰარმონიის შექმნას ვებსაიტზე. */
+
+
+
+
+h1{
+     
+    padding: 10px;  
+    margin: 20px;  
+    border-radius: 7px;
+    border-bottom: 66px solid #960707; 
+    border-top: 66px solid #2c1919;  
+    border-bottom-left-radius: 555cm;
+}
+
+
+
+p{
+    padding: 10px;  
+    margin: 20px;  
+    border-radius: 7px;
+    border-bottom: 66px solid #b11f1f; 
+    border-top: 66px solid #2c1919;  
+    border-bottom-left-radius: 555cm;
+}

@@ -1,0 +1,88 @@
+  <!-- ფორმები (Forms) მნიშვნელოვანი ელემენტია ვებგვერდებზე, რომელსაც გამოიყენებენ მონაცემების შეგროვებისა და სერვერზე გაგზავნისთვის. მოდი, ერთად ვასწავლოთ   ფორმების შექმნა და გამოყენება:
+
+  ფორმის ძირითადი სტრუქტურა
+ფორმის შექმნა იწყება <form> ტეგით. ეს ტეგი წარმოადგენს ფორმის კონტეინერს. მაგალითი: -->
+
+ 
+<form action="/submit" method="post">
+  <label for="name">სახელი:</label>
+  <input type="text" id="name" name="name">
+  <button type="submit">გაგზავნა</button>
+</form>
+ფორმის ატრიბუტები
+action: განსაზღვრავს URL-ს, სადაც ფორმის მონაცემები გაიგზავნება.
+
+მაგალითი:
+
+ 
+<form action="/submit"></form>
+<!-- method: განსაზღვრავს, როგორ უნდა გაიგზავნოს მონაცემები. -->
+
+<!-- get: მონაცემები გადაეცემა URL-ში.
+
+post: მონაცემები იგზავნება უშუალოდ სერვერზე.
+
+  -->
+<form method="post"></form>
+ფორმის ელემენტები
+<label> (სათაური): ტექსტი, რომელიც განსაზღვრავს შევსების ველს.
+
+ 
+<label for="email">Email:</label>
+<input type="email" id="email" name="email">
+<input> (შესვლის ველი): მომხმარებლის მონაცემების შესაყვანად.
+
+ტექსტი:
+
+ 
+<input type="text" name="username">
+პაროლი:
+
+ 
+<input type="password" name="password">
+ჩეკბოქსი:
+
+ 
+<input type="checkbox" name="accept_terms"> მიღება წესები
+<textarea> (დიდი ტექსტის ველი): დიდი მოცულობის ტექსტისთვის.
+
+ 
+<textarea name="message"></textarea>
+<select> (არჩევანი): ჩამოსაშლელი მენიუ.
+
+ 
+<select name="gender">
+  <option value="male">მამრობითი</option>
+  <option value="female">მდედრობითი</option>
+</select>
+<button> (ღილაკი): ფორმის გაგზავნის ღილაკი.
+
+ 
+<button type="submit">გაგზავნა</button>
+ფორმის სტილიზაცია CSS-ის დახმარებით
+ 
+<style>
+  form {
+    width: 300px;
+    margin: auto;
+  }
+
+  input, textarea, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+  }
+</style>
+
+<form>
+  <input type="text" name="name" placeholder="სახელი">
+  <textarea name="message" placeholder="შეტყობინება"></textarea>
+  <button type="submit">გაგზავნა</button>
+</form>
+  <!-- ფორმის საუკეთესო პრაქტიკა
+label გამოიყენეთ თითოეულ შესვლის ველთან, რათა ხელმისაწვდომობა გაიზარდოს.
+
+<input> და <textarea>-ს აუცილებელია ჰქონდეს name ატრიბუტი, რომ სერვერი მონაცემებს სწორად ამოიცნოს.
+
+CSS-ით გააუმჯობესეთ ფორმის ვიზუალი და მომხმარებლის გამოცდილება. -->

@@ -1,0 +1,21 @@
+  <!-- JavaScript-ის checked თვისება
+/  checked არის HTML-ის ელემენტების (მაგალითად, ჩეკბოქსის ან რადიო ღილაკის) თვისება, რომელიც გამოიყენება იმის გასაგებად, არის თუ არა ელემენტი მონიშნული (ჩართული).
+ / მახასიათებლები
+/ true: ელემენტი მონიშნულია.
+
+/  false: ელემენტი არ არის მონიშნული. -->
+
+
+<input type="checkbox" id="myCheckbox">
+<button onclick="checkStatus()">შეამოწმე</button>
+
+<script>
+  function checkStatus() {
+    let checkbox = document.getElementById("myCheckbox");
+    if (checkbox.checked) {
+      console.log("ჩეკბოქსი მონიშნულია!");
+    } else {
+      console.log("ჩეკბოქსი არ არის მონიშნული!");
+    }
+  }
+</script>

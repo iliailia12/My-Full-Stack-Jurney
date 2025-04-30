@@ -1,0 +1,86 @@
+/* <!-- 
+ css-ში ფონების (Backgrounds) მართვა გამოიყენება ვებსაიტზე ელემენტების ვიზუალური სტილის შესაცვლელად. ფონები შეიძლება შეიცავდეს ფერს, სურათს, პოზიციას და სხვა დეტალებს.
+
+
+ ფონის ძირითადი თვისებები
+background-color: განსაზღვრავს ელემენტის ფონის ფერს.
+
+ 
+
+
+
+div {
+  background-color: lightblue;
+}
+background-image: ფონის სურათის დამატება.
+
+ 
+
+
+
+div {
+  background-image: url('image.jpg');
+}
+background-repeat: განსაზღვრავს, უნდა განმეორდეს თუ არა სურათი ფონზე.
+
+მნიშვნელობები: repeat, no-repeat, repeat-x, repeat-y.
+
+ 
+
+
+
+div {
+  background-image: url('image.jpg');
+  background-repeat: no-repeat;
+}
+background-position: ფონის სურათის პოზიციის განსაზღვრა.
+
+მნიშვნელობები: top, center, bottom, left, right.
+
+ 
+
+
+
+div {
+  background-image: url('image.jpg');
+  background-position: center;
+}
+background-size: ფონის სურათის ზომის განსაზღვრა.
+
+მნიშვნელობები: cover, contain, ან პიქსელური ზომები.
+
+ 
+
+
+
+div {
+  background-image: url('image.jpg');
+  background-size: cover;
+}
+background-attachment: განსაზღვრავს, ფიქსირებული იქნება თუ არა ფონური სურათი.
+
+მნიშვნელობები: scroll, fixed.
+
+ 
+
+
+
+div {
+  background-image: url('image.jpg');
+  background-attachment: fixed;
+}
+
+-ის ფონის სტილიზაციის კომბინაცია
+მრავალი თვისების ერთდროულად გამოყენება:
+
+
+
+div {
+  background: url('image.jpg') no-repeat center center / cover;
+}
+საუკეთესო პრაქტიკა
+ყოველთვის გამოიყენეთ ოპტიმიზირებული სურათები, რათა გვერდის ჩატვირთვა იყოს სწრაფი.
+
+background-color დაამატეთ როგორც სარეზერვო ვარიანტი იმ შემთხვევაში, თუ სურათი ვერ ჩაიტვირთება.
+
+სწორი პოზიციის და ზომის განსაზღვრა გააუმჯობესებს ვებსაიტის ვიზუალს. --> */

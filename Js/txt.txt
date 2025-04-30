@@ -1,0 +1,23 @@
+// JavaScript array of objects
+// JavaScript anonymous objects
+// JavaScript Error handling
+// JavaScript setInterval()
+// JavaScript Date objects
+// JavaScript asynchronous
+// JavaScript console.time()
+// JavaScript promises
+// JavaScript async
+// JavaScript await
+// JavaScript ES6 Modules
+// JavaScript DOM intro
+// JavaScript element selectors
+// JavaScript DOM traversal
+// JavaScript add/change HTML elements
+// JavaScript add/change CSS properties
+// JavaScript events
+// JavaScript addEventListener()
+// JavaScript show/hide HTML elementsS
+// JavaScript detect key presses
+// JavaScript animations
+// JavaScript canvas API
+// JavaScript window
