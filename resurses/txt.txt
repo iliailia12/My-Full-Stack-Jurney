@@ -180,32 +180,3 @@ https://dpbck.ac.in/wp-content/uploads/2022/05/Programming-PHP-PDFDrive-.pdf
 linux
 https://linuxfromscratch.org/lfs/downloads/10.0/LFS-BOOK-10.0.pdf
 https://archive.org/details/negus-c.-linux-bible-10ed-2020-negus-c.-linux-bible-10ed-2020
-
-
-
-მადლობა ყურადღებისთვის მაგრამ ახლა ბიბლიოთეკებზე გადავიდეთ
-
-
-
-
-css ის ბიბლიოთეკა თეილვინდი teillwind 
-Tailwind CSS არის CSS-ის ბიბლიოთეკა, რომელიც იყენებს utility-first მიდგომას. ეს ნიშნავს, რომ ის გთავაზობთ მცირე, წინასწარ განსაზღვრულ კლასებს, რომლებიც შეგიძლიათ გამოიყენოთ HTML-ში, რათა სწრაფად შექმნათ დიზაინი კოდის დაწერის გარეშე.
-
-Tailwind CSS-ის გამოყენების უპირატესობები:
-სწრაფი განვითარება: არ გჭირდებათ საკუთარი CSS-ის დაწერა, შეგიძლიათ პირდაპირ გამოიყენოთ არსებული კლასები.
-მოდულარობა: თითოეული კლასი ასრულებს კონკრეტულ ფუნქციას, რაც დიზაინის მართვას ამარტივებს.
-მორგება: შეგიძლიათ მარტივად შეცვალოთ ფერები, შრიფტები და სხვა პარამეტრები tailwind.config.js ფაილში.
-Tailwind CSS-ის დაყენება:
-Tailwind-ის გამოყენება შესაძლებელია სხვადასხვა გზით. მაგალითად, Node.js-ის გამოყენებით:
-
-პროექტის ინიციალიზაცია:
-npm init -y
-კონფიგურაციის ფაილის შექმნა: tailwind.config.js ფაილში შეგიძლიათ განსაზღვროთ თქვენი დიზაინის პარამეტრები.
-
-CSS ფაილის შექმნა: შექმენით CSS ფაილი და ჩაწერეთ:
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-Tailwind-ის კომპილაცია:
-npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
