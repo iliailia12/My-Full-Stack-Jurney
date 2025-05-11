@@ -1,0 +1,7 @@
+html----.html
+css-----.css
+java sqript იგივე js-----.js
+pyton----.py
+react-----.jsx
+c++--------cpp
+

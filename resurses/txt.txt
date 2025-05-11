@@ -180,3 +180,18 @@ https://dpbck.ac.in/wp-content/uploads/2022/05/Programming-PHP-PDFDrive-.pdf
 linux
 https://linuxfromscratch.org/lfs/downloads/10.0/LFS-BOOK-10.0.pdf
 https://archive.org/details/negus-c.-linux-bible-10ed-2020-negus-c.-linux-bible-10ed-2020
+
+
+ახლა ბიბლიოთეკების დროა 
+css ს ბიბლიოთეკა Tailwind CSS
+დოკუმენტაცია
+
+https://v2.tailwindcss.com/docs
+https://tailwindcss.com/docs/installation/using-vite
+
+
+
+
+ასევე თამაშები რომელიც პროგრამირებას გვასწავლლის
+https://cssbattle.dev/
+https://cssgridgarden.com/

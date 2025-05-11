@@ -1,0 +1,193 @@
+display - გამოსახვა
+requires - მოითხოვს
+human - ადამიანი
+use - გამოყენება
+give - მიცემა
+line - ხაზი
+quotation  - ბრჭყალები
+marks - მარკი
+around - გარშემო
+parenthesess - ფრჩხილი
+
+
+
+variable - ცვლადი
+parenthesess - ფრჩხილი
+quotation - ბრჭყალი
+item - ნივთი
+value - მნიშვნელობა/ღირებულება
+store - შენახვა/მაღაზია
+user - მომხმარებელი
+account - ანგარიში
+device - მოწყობილობა
+type - ტიპი
+Missing - იძებნება
+complete - დასრულება
+line - ხაზი
+code - კოდი
+below - ქვემო
+send - გაგზავნა 
+screen  - ეკრანი
+easiest - ყველაზე მარტივი
+way - გზა
+other - სხვა
+display - გამოსახვა
+requires - მოითხოვს
+human - ადამიანი
+give - მიცემა
+make sure - დარწმუნდი
+accurately - სწრაფი
+then - შემდეგ
+than - ვიდრე
+recall - გამოძახება
+contain  - მოიცავს
+fix - გასწორება /  შესწორება
+correctly - სწორად
+return - დაბრუნება
+descriptions - აღწერა
+explanations - ახსნა  / განმარტება
+temporarily - დროებით
+disable - გათიშვა
+statement - განცხადება
+
+
+
+
+turtle-ში დახაზეთ სასახლე, მეფე და დედოფალი, დაარჭვეთ GOA-ს დროშა კოშკზე. 
+(ფანტაზია თქვენით) 
+
+
+
+
+
+code wars:
+https://www.codewars.com/kata/57ed30dde7728215300005fa
+https://www.codewars.com/kata/535474308bb336c9980006f2
+https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3
+https://www.codewars.com/kata/5413759479ba273f8100003d
+https://www.codewars.com/kata/57d2807295497e652b000139
+https://www.codewars.com/kata/5effa412233ac3002a9e471d
+https://www.codewars.com/kata/609eee71109f860006c377d1
+https://www.codewars.com/kata/5768a693a3205e1cc100071f
+https://www.codewars.com/kata/5701e43f86306a615c001868
+https://www.codewars.com/kata/57f7b8271e3d9283300000b4
+https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
+https://www.codewars.com/kata/555a67db74814aa4ee0001b5
+https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
+https://www.codewars.com/kata/55cbd4ba903825f7970000f5
+https://www.codewars.com/kata/53369039d7ab3ac506000467
+https://www.codewars.com/kata/56dec885c54a926dcd001095
+https://www.codewars.com/kata/55685cd7ad70877c23000102
+https://www.codewars.com/kata/551b4501ac0447318f0009cd
+https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd
+https://www.codewars.com/kata/55a5befdf16499bffb00007b
+https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/python
+https://www.codewars.com/kata/5ce9c1000bab0b001134f;
+https://www.codewars.com/kata/59f11118a5e129e591000134/train/python
+4.https://www.codewars.com/kata/5ab6538b379d20ad8800
+https://www.codewars.com/kata/5ab6538b379d20ad880000ab
+https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/python
+https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/python
+https://www.codewars.com/kata/541629460b198da04e000bb9/train/python
+https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/python
+https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/python
+https://www.codewars.com/kata/57f780909f7e8e3183000078/train/python
+https://www.codewars.com/kata/54edbc7200b811e956000556/train/python
+https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python
+https://www.codewars.com/kata/56747fd5cb988479af000028/train/python
+https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/python
+https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/python
+https://www.codewars.com/kata/51c8991dee245d7ddf00000e/train/python
+https://www.codewars.com/kata/5861d28f124b35723e00005e/train/python
+https://www.codewars.com/kata/5861d28f124b35723e00005e/train/python
+https://www.codewars.com/kata/51c8991dee245d7ddf00000e/train/python
+https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c/train/python
+https://www.codewars.com/kata/5436f26c4e3d6c40e5000282/train/python
+https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/python
+https://www.codewars.com/kata/555a67db74814aa4ee0001b5
+https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
+https://www.codewars.com/kata/55cbd4ba903825f7970000f5
+https://www.codewars.com/kata/53369039d7ab3ac506000467
+https://www.codewars.com/kata/56dec885c54a926dcd001095
+https://www.codewars.com/kata/55685cd7ad70877c23000102
+https://www.codewars.com/kata/551b4501ac0447318f0009cd
+https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/python
+https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/python
+https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/python
+https://www.codewars.com/kata/55d277882e139d0b6000005d/train/pytho
+https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/python
+https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
+https://www.codewars.com/kata/59f11118a5e129e591000134/train/python
+https://www.codewars.com/kata/5ab6538b379d20ad880000ab
+https://www.codewars.com/kata/5715eaedb436cf5606000381
+https://www.codewars.com/kata/583710ccaa6717322c000105
+https://www.codewars.com/kata/57089707fe2d01529f00024a
+https://www.codewars.com/kata/525e5a1cb735154b320002c8
+https://www.codewars.com/kata/5715eaedb436cf5606000381
+https://www.codewars.com/kata/57f780909f7e8e3183000078
+https://www.codewars.com/kata/5625618b1fe21ab49f00001f/train/python
+https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/python
+https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/python
+https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/python
+https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/python
+https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c/train/python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fronted mentor
+https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
+https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
+https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
+https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm
+https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
+https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
+https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
+https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
+https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5
+https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
+https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5
+https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2
+https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY  
+https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix 
+https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
+https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
+https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj
+https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
+https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
+https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0
+
+
+
+
+games
+https://flexboxfroggy.com/
+https://codingfantasy.com/games/flexboxadventure
+https://cssgridgarden.com/
+https://codingfantasy.com/games
+https://oskarstalberg.com/Townscaper/
+
+
+
+append 
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+
+
+css tailwing
+
+https://tailwindcss.com/
