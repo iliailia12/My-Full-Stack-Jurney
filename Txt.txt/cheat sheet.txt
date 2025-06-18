@@ -1,0 +1,205 @@
+HTML ასე ვთქვათ შპარგალკები წაკითხვას ფირჩევთ პროსტა ინგლისურია მარა არაუშავს ინგლისური უნდა იცოდე
+https://html.com/wp-content/uploads/html-cheat-sheet.pdf
+
+Css
+https://ilovecoding.org/blog/htmlcss-cheatsheet
+
+js
+https://htmlcheatsheet.com/js/JavaScript-JS-Cheat-Sheet.pdf
+https://websitesetup.org/wp-content/uploads/2020/09/Javascript-Cheat-Sheet.pdf
+https://opensource.com/sites/default/files/gated-content/cheat_sheet_javascript-2021.7.19.pdf
+
+ts
+https://www.typescriptlang.org/cheatsheets/
+https://www.doabledanny.com/typescript-cheat-sheet
+https://zerotomastery.io/cheatsheets/typescript-cheat-sheet/
+
+react
+https://zerotomastery.io/cheatsheets/react-cheat-sheet/
+https://npcheatsheets.netlify.app/cheatsheets/react.pdf
+https://npcheatsheets.netlify.app/cheatsheets/react.pdf
+
+angular
+https://hackr.io/blog/angular-cheat-sheet
+https://zerotomastery.io/cheatsheets/angular-cheat-sheet/
+https://houseofangular.io/wp-content/uploads/2024/07/The_Ultimate_Guide_To_Angular_Evolution_Angular18.pdf
+ 
+pyton
+https://cdn.codewithmosh.com/image/upload/v1702942822/cheat-sheets/python.pdf
+https://hackr.io/blog/python-cheat-sheet
+https://static.realpython.com/python-cheat-sheet.pdf
+
+PYTHON 
+FOR DATA SCIENCE CHEAT SHEET
+https://data36.com/wp-content/uploads/2019/08/python-cheat-sheet-for-data-scientists-by-tomi-mester-2019.pdf
+https://websitesetup.org/wp-content/uploads/2021/04/Python-cheat-sheet-April-2021.pdf
+https://people.umass.edu/sharris/in/e491ds/texts/PythonBeginners.pdf
+
+git
+https://cdn.codewithmosh.com/image/upload/v1702943977/cheat-sheets/git.pdf
+https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn
+https://opensource.com/sites/default/files/2022-04/OSDC_cheatsheet-git-2022.4.7.pdf
+
+git hub
+https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn
+
+ruby
+https://www.rubyguides.com/wp-content/uploads/2019/11/ruby-reference-2019-optin.pdf
+https://www.devopsschool.com/cheatsheets/ruby/ruby.pdf
+https://alhassy.com/RubyCheatSheet/CheatSheet.pdf
+https://www.codeconquest.com/cheat-sheets/ruby-cheat-sheet/
+
+Java
+https://www.codeconquest.com/cheat-sheets/ruby-cheat-sheet/
+https://cheatography.com/lucamazzza/cheat-sheets/java17/
+https://res.cloudinary.com/codewithmosh/image/upload/v1702943783/cheat-sheets/java.pdf
+https://hackr.io/blog/java-cheat-sheet
+
+c#
+https://hackr.io/blog/c-sharp-cheat-sheet
+https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf
+https://zerotomastery.io/cheatsheets/csharp-cheat-sheet/
+https://begincodingnow.com/wp-content/uploads/2019/02/CSharpCheatSheetV1.pdf
+
+Golang
+https://hackr.io/blog/golang-cheat-sheet
+https://www.bing.com/search?q=go%20hubcheat%20sheet%20%20pdf&qs=n&form=QBRE&sp=-1&lq=0&pq=go%20hubcheat%20sheet%20%20pdf&sc=12-22&sk=&cvid=F0DB60C1BA414ACA8DC5903DCDABC6725341
+
+Algoritms and data structure
+ https://archive.org/details/data-structures-and-algorithms-narasimha-karumanchi/page/n15/mode/2up
+
+
+MY SQL
+https://riptutorial.com/Download/mysql.pdf
+
+MongoDB
+https://www.dbooks.org/learning-mongodb-5605980453/read/
+
+Ryby on rails
+https://www.learnenough.com/ruby-on-rails-7th-edition-tutorial/beginning/
+https://s3.amazonaws.com/rails-tutorial-samples/rails_tutorial_2nd_edition_sample.pdf
+
+Express js
+https://web.stanford.edu/class/archive/cs/cs142/cs142.1196/lectures/Express.pdf
+https://www.freecodecamp.org/news/the-express-handbook/
+https://www.tutorialspoint.com/expressjs/expressjs_tutorial.pdf
+
+PHP
+https://websitesetup.org/php-cheat-sheet/
+https://www.codewithharry.com/blogpost/php-cheatsheet
+https://www.phpforkids.com/references/cheat-sheets/PHP-Cheat-Sheet-by-PHPForKids.com.pdf
+https://quickref.me/php.html
+https://cheatography.com/tag/php/
+https://hackr.io/blog/php-cheat-sheet
+
+linux
+https://linuxfromscratch.org/lfs/downloads/10.0/LFS-BOOK-10.0.pdf
+https://www.onlineprogrammingbooks.com/free-linux-books/
+
+
+
+დამატებითი მასალა
+power point
+https://www.customguide.com/cheat-sheet/powerpoint-quick-reference.pdf
+
+word
+https://www.customguide.com/cheat-sheet/word-quick-reference.pdf
+
+exel
+https://www.customguide.com/cheat-sheet/excel-cheat-sheet.pdf
+
+
+
+
+ახლა კი ელექტრონულ წიგნებზე გადავინაცვლოდ რომლის წაკითხვის შემთხვევაში მაგარი დეველოპერები იქნებით
+
+800 გვერდიანი წიგნია მარა არ შეგეშინდეთ
+html & Css
+https://archive.org/details/the-complete-reference-html-css-fifth-edition
+
+css
+https://www.dbooks.org/the-css-handbook-5614163492/read/
+
+js
+აქ ძალიან ბევრი წიგნია აირჩიეთ რაც გჭირდებათ და წაიკითხედ
+https://freefrontend.com/javascript-books/
+https://codersguild.net/books/javascript/2024
+
+react
+https://archive.org/details/reactjsbooklearn0000greg
+
+ts,
+
+angular
+https://freefrontend.com/angular-books/
+https://houseofangular.io/wp-content/uploads/2024/07/The_Ultimate_Guide_To_Angular_Evolution_Angular18.pdf
+https://static.frontendmasters.com/resources/2020-05-28-angular-9/angular-9-fundamentals.pdf
+
+
+pyton
+რომელიმეზე დააჭირეთ და მერე ფრეე რეადს მიეცით
+https://pythonbooks.org/free-books/
+https://archive.org/details/2018Fundamentals.ofPython
+https://people.umass.edu/sharris/in/e491ds/texts/PythonBeginners.pdf
+
+git
+https://www.dbooks.org/pro-git-1484200764/read/
+
+Java
+https://archive.org/details/java-the-complete-reference-11-edition
+https://www.iitk.ac.in/esc101/share/downloads/javanotes5.pdf
+https://ia800308.us.archive.org/16/items/java_20230528/Joshua%20Bloch%20-%20Effective%20Java%20%283rd%29%20-%202018.pdf
+
+c#
+https://archive.org/details/fundamentals-of-computer-programming-with-c
+
+Algoritms and data structure
+https://ia601807.us.archive.org/26/items/data-structures-and-algorithms-in-python-pdfdrive/Data%20Structures%20and%20Algorithms%20in%20Python%20%28%20PDFDrive%20%29.pdf
+
+Data Structures and AlgorithmAnalysis
+https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf
+http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202023%20-%20E/CSE%20ITAIDSML/Algorithms_and_Data_Structures_The_Basic_Toolbox_Mehlhorn_and_Sanders.pdf
+
+MY SQL
+https://archive.org/details/murachs-mysql-3rd-edition
+
+MongoDB
+https://www.dbooks.org/learning-mongodb-5605980453/read/
+
+Ryby on rails
+https://dn721605.ca.archive.org/0/items/programming-resources_20240211/Programming%20Resources/RubyOnRailsNotesForProfessionals.pdf
+
+Express js
+https://www.dbooks.org/the-express-handbook-5614276129/read/
+https://riptutorial.com/Download/express.pdf
+
+PHP
+https://dpbck.ac.in/wp-content/uploads/2022/05/Programming-PHP-PDFDrive-.pdf
+
+linux
+https://linuxfromscratch.org/lfs/downloads/10.0/LFS-BOOK-10.0.pdf
+https://archive.org/details/negus-c.-linux-bible-10ed-2020-negus-c.-linux-bible-10ed-2020
+
+
+ახლა ბიბლიოთეკების დროა 
+css ს ბიბლიოთეკა Tailwind CSS
+დოკუმენტაცია
+
+https://v2.tailwindcss.com/docs
+https://tailwindcss.com/docs/installation/using-vite
+
+
+
+
+ასევე თამაშები რომელიც პროგრამირებას გვასწავლლის
+https://cssbattle.dev/
+https://cssgridgarden.com/
+
+
+
+game developmend
+
+lua
+https://opensource.com/sites/default/files/gated-content/cheat_sheet_lua.pdf
+https://cheat-sheets.org/saved-copy/osdc_Lua_20230211.pdf

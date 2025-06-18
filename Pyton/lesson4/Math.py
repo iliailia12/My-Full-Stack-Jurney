@@ -99,3 +99,13 @@ num1 = 20
 num2 = 6
 floor_division = num1 // num2
 print(floor_division)
+
+
+
+
+
+
+num1 = 10
+num2 = 11
+sum = num1+num2
+print(sum)

@@ -1,0 +1,43 @@
+- JSON(JavaScript Object Notation)
+
+ - JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate. It is often used for transmitting data in web applications between a server and a client.
+
+ - JSON არის მსუბუქი მონაცემების გაცვლის ფორმატი, რომელიც არის ადამიანებისათვის მარტივად წასაკითხი და დასაწერი და მანქანებისთვისაც(კომპიუტერებისთვისას) არის მარტივად დასაშლელი და გასაანალიზებელი. ხშირად გამოიყენება მონაცემების გაცვლისთვის ვებ აპლიკაციაში, სერვერებს და კლიენტებს შორის.
+
+ 
+ ----
+
+ 1. Syntax:
+  - JSON data is written as key/value pairs.
+  - Keys are strings, and values can be strings, numbers, objects, arrays, true, false, or null.
+
+
+    სინტაქსი:
+
+    - JSON - ის მონაცემები იწერება თვისება/მნიშვნელობის სახით.
+    - თვისება ყოველთვის არის სტრინგი, ხოლო მნიშვნელობები შეიძლება იყო ტექსტი, რიცხვი, ობიექტი, მასივი, ბულიანი ან ნულლ(null)
+
+
+
+ ----
+
+    2. Data Types:
+
+    -  Object: An unordered set of key/value pairs enclosed in curly braces {}.
+    -  Array: An ordered list of values enclosed in square brackets [].
+    -  String: A sequence of characters enclosed in double quotes "".
+    -  Number: An integer or floating-point number.
+    -  Boolean: true or false.
+    -  null: Represents an empty value.
+
+
+ 3. Usage:
+
+    - JSON is commonly used to transmit data between a server and a web application.
+    - It is language-independent but uses conventions familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others.
+
+
+    გამოყენება:
+
+    - JSON ხშირად გამოიყენება მონაცემების გაცვლისთვის სერვერსა და აპლიკაციას შორის.
+    - ეს არის ენისგან დამოუკიდებელი, მაგრამ გამოიყენება ბევრ სხვადასხვა პროგრამირების ენაში, როგორიც არის: C, C++, C#, Java, JavaScript, Perl, Python და ა.შ

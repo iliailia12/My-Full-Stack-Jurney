@@ -3,7 +3,8 @@
 # Python ცვლადები (Variables) არის პროგრამირების ძირითადი ელემენტები, რომლებიც მონაცემებს ინახავენ და პროგრამაში სხვადასხვა ადგილას იყენებენ. ცვლადების შექმნა და გამოყენება Python-ში ძალიან მარტივია.
 
 
-
+age = 35
+print(age)
 
 name= "ნიკოლოზ"
 age = 25
@@ -23,3 +24,13 @@ height = 1.75
 weight = 70.5
 
 # ამათ მერე ისწავლით
+
+
+
+
+person = ""
+name = "Luka"
+age = 10
+height = 1.62
+status = "Student in Goal oriented academy"
+is_student = True
