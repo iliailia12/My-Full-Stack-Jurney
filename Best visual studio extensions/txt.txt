@@ -1,0 +1,57 @@
+.NET Install Tool
+Better Comments
+Bracket Pair Color DLW
+C#
+C# Dev Kit
+Code Debugger
+Code Runner
+CodeLLDB
+CodeSnap
+Color Highlight
+Container Tools
+Debugger for JavaDebugger for Java
+Deno
+Docker
+ES7+ React/Redux/React-Native snippets
+GitLens — Git supercharged
+HTML CSS Support
+Incredibly In Your Face
+init-node-script
+Java
+JavaScript Debugger (Nightly)
+Live Server
+Live Server (Five Server)
+Live Share
+LRDB
+Material Icon Theme
+Microsoft Edge Tools for VS Code
+Microsoft Planner for Visual Studio Code
+PHP Intelephense
+Prettier - Code formatter
+Pylance
+Python
+Python Debugger
+Tailwind CSS IntelliSense
+VS Code Speech
+Unity
+GitHub Copilot
+Linux Themes for VS Code
+Linux Ubuntu Theme
+Print Debug (aka Put Print)
+Auto Rename Tag
+ES7+ React/Redux/React-Native snippets
+Simple React Snippets
+React Theme
+JavaScript and TypeScript Nightly
+Naruto Shippuden Themes
+Solo Leveling Theme
+Dark Rasengan
+August Themes
+Paddy Color Themes
+Tailwind Colour Themes
+Linux Themes for VS Code
+Doki Theme
+GlassIt-VSC
+Console Ninja
+Wallaby.js
+Quokka.js
