@@ -55,3 +55,4 @@ GlassIt-VSC
 Console Ninja
 Wallaby.js
 Quokka.js
+Error Lens
